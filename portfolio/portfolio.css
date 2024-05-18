@@ -1,0 +1,23 @@
+.main-heading{
+    background-color: rgba(124, 124, 124, 0.11);
+}
+
+.main-heading h1{
+font-size: 245px;
+font-weight: bolder;
+background-image: url(images/image.png);
+background-size: cover;
+background-position: center;
+background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+}
+.banner {
+    width: 100%;
+    background-image: url(images/Blue\ Neon\ Creative\ Futuristic\ Name\ Gaming\ YouTube\ Banner\ \(3\).png);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
